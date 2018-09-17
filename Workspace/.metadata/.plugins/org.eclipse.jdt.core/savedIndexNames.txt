@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+C:\Projets\appium\Workspace\.metadata\.plugins\org.eclipse.jdt.core
+91560978.index
+3454796105.index
+247951487.index
+1126957272.index
+302358983.index
+3835057592.index
+3006444508.index
+2606266413.index
+2974220450.index
+3456005864.index
+3307009108.index
+1491869347.index
+57977113.index
+2900618011.index
